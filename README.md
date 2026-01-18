@@ -27,7 +27,7 @@ Right now, I’m sharpening my skills in **Spring Boot backend engineering, Pyth
 ---
 
 ## 📌 Competitive Programming & DSA  
-- 🟢 Solved **400+ problems on LeetCode**  
+- 🟢 Solved **500+ problems on LeetCode**  
 - 🟠 Solved **100+ problems on GeeksforGeeks**
 - ⭐ Maintaining a **1580 LeetCode rating**, consistently improving through weekly contests
 - 🔄 Actively improving problem-solving skills across platforms  

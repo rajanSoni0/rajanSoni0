@@ -60,7 +60,7 @@ Right now, I’m sharpening my skills in **Spring Boot backend engineering, Pyth
 ---
 
 ## 🎯 Current Goals  
-- Reach **500+ DSA problems**  
+- Reach **00+ DSA problems**  
 - Build impactful **backend + ML integrated projects**  
 - Improve Spring Boot expertise  
 - Start contributing to **open-source**  
